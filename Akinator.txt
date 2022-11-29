@@ -1,0 +1,16 @@
+P2Deportista
+PNKeylor Navas
+P2Futbolista
+PNRolando Fonseca
+PSEntrenador
+R0Pate Centeno
+PSBMX
+R1Kennet Tencio
+P2Musico
+PNGuato
+PSRockero
+R0Pato Barraza
+P2Guitarrista
+R0Mario Ulloa
+PSfamosa por calle 8
+R1elena umana
